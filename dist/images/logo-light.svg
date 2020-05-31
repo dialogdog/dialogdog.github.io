@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="logo-light.svg"
+   id="svg147"
+   version="1.1"
+   height="32"
+   width="32">
+  <metadata
+     id="metadata151">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="g145"
+     inkscape:window-maximized="1"
+     inkscape:window-y="40"
+     inkscape:window-x="0"
+     inkscape:cy="14.128668"
+     inkscape:cx="18.302311"
+     inkscape:zoom="31.5"
+     showgrid="false"
+     id="namedview149"
+     inkscape:window-height="1760"
+     inkscape:window-width="3200"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs139">
+    <linearGradient
+       id="a"
+       y2="77.109%"
+       x2="77.135%"
+       y1="0%"
+       x1="50%">
+      <stop
+         id="stop129"
+         offset="0%"
+         stop-color="#FE7E1F" />
+      <stop
+         id="stop131"
+         offset="100%"
+         stop-color="#FFCF7B" />
+    </linearGradient>
+    <linearGradient
+       id="b"
+       y2="77.109%"
+       x2="77.135%"
+       y1="0%"
+       x1="50%">
+      <stop
+         id="stop134"
+         offset="0%"
+         stop-opacity=".48"
+         stop-color="#FFF" />
+      <stop
+         id="stop136"
+         offset="100%"
+         stop-opacity="0"
+         stop-color="#FFF" />
+    </linearGradient>
+    <linearGradient
+       y2="28.684847"
+       x2="24.156885"
+       y1="0.89361626"
+       x1="11.801067"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1121"
+       xlink:href="#a"
+       inkscape:collect="always" />
+  </defs>
+  <g
+     transform="translate(0.47678339,0.30355593)"
+     id="g145"
+     fill-rule="evenodd"
+     fill="none">
+    <text
+       id="text272"
+       y="28.489803"
+       x="-1.1555997"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#535fd7;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#535fd7;fill-opacity:1"
+         y="28.489803"
+         x="-1.1555997"
+         id="tspan270"
+         sodipodi:role="line">D</tspan></text>
+    <text
+       id="text1203"
+       y="5.8930044"
+       x="25.457632"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="5.8930044"
+         x="25.457632"
+         id="tspan1201"
+         sodipodi:role="line" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#fda64a;fill-opacity:1;stroke:none;"
+       x="5.5772882"
+       y="31.73682"
+       id="text272-5"><tspan
+         sodipodi:role="line"
+         id="tspan270-5"
+         x="5.5772882"
+         y="31.73682"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#fda64a;fill-opacity:1;">D</tspan></text>
+  </g>
+</svg>
